@@ -1,19 +1,31 @@
-# vorp_metabolism-lua
-VORP Metabolism Lua Version
+# ***VORP Metabolism Lua version***
 
+If you have the C# version of the script and want to replace it, it's just drag and drop. Everything works without having to change anything!
 
-![68747470733a2f2f692e6779617a6f2e636f6d2f36386537363836626335623732663164346132306461373731316232646265352e706e67](https://user-images.githubusercontent.com/87246847/167278316-cfab3491-3293-461d-9581-b4c2eaff1762.png)
+Hunger & Thirst system with metabolism included.
 
-## Required
- [VORP_CORE](https://github.com/VORPCORE/vorp-core-lua)
- 
-## Installation
-- make sure edit the config file
-- have the items in your database
-- add ensure to resources.cfg
-- start your server
+![](https://i.gyazo.com/68e7686bc5b72f1d4a20da7711b2dbe5.png)
 
+[Discord VORP](https://discord.gg/23MPbQ6)
+
+## Requirements
+- [VORP-Core-Lua](https://github.com/VORPCORE/vorp-core-lua)
+
+## How to install
+* [Download the lastest version](https://github.com/DX-BR/vorp_metabolism-lua)
+
+* Copy and paste ```vorp_metabolism``` folder to your resources folder.
+* Add ```ensure vorp_metabolism``` to your ```server.cfg``` file
+* Open the `vorp_metabolism/config.lua` and check the configs & translations.
+
+Now you are ready!
+
+---
 ## Credits
-[DX](https://github.com/DX-BR) for the conversion
-[Victor Lellis](https://github.com/vWernay) for the conversion
-based on the [C# version](https://github.com/VORPCORE/VORP-Metabolism) 
+
+Original script:
+ - [VORP-Metabolism](https://github.com/VORPCORE/VORP-Metabolism) This script was based on this C# version.
+
+Developers:
+ - [DX#2201](https://github.com/DX-BR)
+ - [victorBOY#3179](https://github.com/vWernay)
