@@ -1,5 +1,5 @@
 Config = {
-  Locale = "pt_br",
+  Locale = "en",
 
   UseMetabolism = true, -- Experimental Function
 
@@ -101,6 +101,9 @@ Config = {
 }
 
 Translations = {
+  ['en'] = {
+    ['OnUseItem'] =  "You have consumed %s"
+  },
   ['pt_br'] = {
     ['OnUseItem'] =  "Você consumiu %s"
   }
